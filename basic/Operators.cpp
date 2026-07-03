@@ -28,4 +28,6 @@ int main(){
     cout << "bitwise XOR ( a ^ b ) : " << bitwiseXor << endl ; 
     cout << "bitwise AND ( a & b ) : " << bitwiseAnd << endl ;
 
+    return 0 ;
+
 }
